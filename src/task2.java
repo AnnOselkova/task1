@@ -5,6 +5,7 @@ public class task2 {
         System.out.println("triArea(10, 10) -> " + triArea(10, 10));
     }
     public static int triArea( int a, int b){ //формула для расчета площади треугольника
+
         return (a * b)/2;
     }
 }
